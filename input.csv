@@ -1,0 +1,7 @@
+artefacto,groupid,version,namespace,tipo,action
+ms-infra-correspondence-emails,com.bs.proteo4.ms,2.0.7,Ns-inf,micro,deploy
+ms-infra-correspondence-emails,com.bs.proteo4.ms,1.9.13,Ns-inf,micro,rollback
+ms-sys-correspondence-v2,com.bs.proteo4.ms,2.0.2,Ns-sys,micro,deploy
+ms-sys-correspondence-v2,com.bs.proteo4.ms,2.0.1,Ns-sys,micro,rollback
+ms-infra-correspondence-emails,com.bs.proteo4.ms,1.9.2,Ns-inf,config,deploy
+ms-infra-correspondence-emails,com.bs.proteo4.ms,1.8.13,Ns-inf,config,rollback
